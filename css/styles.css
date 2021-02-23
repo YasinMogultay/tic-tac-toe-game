@@ -15,9 +15,9 @@
 }
 
 .playerX {
-background-image: url("x.jpeg");
+background-image: url("../img/x.jpeg");
 }
 
 .player0 {
-    background-image: url("o.jpg");
+    background-image: url("../img/o.jpg");
 }
